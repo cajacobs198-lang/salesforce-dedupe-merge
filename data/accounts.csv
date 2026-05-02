@@ -1,0 +1,18 @@
+id,name,website,industry,employee_count,country
+001A,Acme Inc,acme.com,Manufacturing,500,US
+001B,"Acme, Inc.",www.acme.com,Manufacturing,500,US
+001C,ACME Corporation,acme.com,Manufacturing,520,US
+002A,Stripe,stripe.com,Payments,8500,US
+002B,Stripe Inc,stripe.com,Payments,8500,US
+002C,Stripe Payments Europe Ltd,stripe.com,Payments,400,IE
+003A,Notion Labs,notion.so,Software,800,US
+003B,Notion,notion.so,Software,800,US
+004A,Apple,apple.com,Hardware,150000,US
+004B,Apple Inc.,apple.com,Hardware,150000,US
+005A,Globex Solutions,globex.io,Consulting,80,US
+005B,Globex,globex.io,Consulting,80,US
+005C,Globex Solutions LLC,,Consulting,80,US
+006A,Initech,initech.net,Software,40,US
+006B,Initech Holdings,,Software,40,US
+007A,Wayne Enterprises,wayne.com,Conglomerate,90000,US
+007B,Wayne Industries,wayne.com,Conglomerate,90000,US
